@@ -1,4 +1,4 @@
-=## Team Members - C242-PS350
+## Team Members - C242-PS350
 |          Member           |Student ID   |  Path            |University              | Contact            |
 | :------------------------ | :---------- | :--------------- | :-------------------   | :----------------- |
 | Muhammad Faris Kurniawan | M204B4KY282 | Machine Learning | Universitas Esa Unggul | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammada-faris-kurniawan/)
