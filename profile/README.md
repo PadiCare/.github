@@ -72,7 +72,9 @@ Click on the image to download the PadiaCare APK.
 # PadiCare App Features
 
 1. **Scan Padi**
-   - The app features a built-in scanner using CameraX to identify and display names of scanned items within the......???
+   - The app features a built-in scanner using CameraX to identify and display names of scanned items on diseased rice plant. 
+2. **Advice**
+   - After a disease is detected, PadiCare provides immediate recommendations for treatment and disease management.
   
 ## Part of Repository
 
