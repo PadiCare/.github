@@ -11,7 +11,7 @@
 
 ## PadiCare
 <p align="center">
-  <img src="https://github.com/PadiCare/.github/blob/main/Padicare.jpeg" alt="Padicare logo" width="450" height="400">
+  <img src="https://github.com/PadiCare/.github/blob/main/Github%20padicare/PadiCare%20HD.jpeg" alt="Padicare logo" width="450" height="400">
 </p>
 
 Padi Care is an innovative AI-powered application designed to assist farmers in diagnosing and managing rice crop diseases. By leveraging advanced machine learning models, utilizing google cloud, maximizing on mobile development, Padi Care provides accurate, fast, and reliable identification of common rice diseases using image-based analysis. The application empowers users to take proactive measures to maintain healthy crops and maximize yield potential.
@@ -19,7 +19,7 @@ Padi Care is an innovative AI-powered application designed to assist farmers in 
 
 ## PadiCare App Download
 <p align="left">
-  <img src="https://github.com/PadiCare/.github/blob/main/Padicare.jpeg" alt="Padicare logo" width="450" height="400">
+  <img src="https://github.com/PadiCare/.github/blob/main/Github%20padicare/PadiCare%20HD.jpeg" alt="Padicare logo" width="450" height="400">
 </p>
 
 Click on the image to download the PadiaCare APK.
@@ -27,7 +27,7 @@ Click on the image to download the PadiaCare APK.
 
 ## About Project
 <p align="left">
-  <img src="https://github.com/PadiCare/.github/blob/main/Padicare.jpeg" alt="Padicare logo" width="450" height="400">
+  <img src="https://github.com/PadiCare/.github/blob/main/Github%20padicare/PadiCare%20HD.jpeg" alt="Padicare logo" width="450" height="400">
 
 ## Built with
 
