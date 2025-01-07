@@ -22,8 +22,7 @@ Padi Care is an innovative AI-powered application designed to assist farmers in 
 
 
 ## About Project
-<p align="left">
-  <img src="https://github.com/PadiCare/.github/tree/main/Vidio%20Padicare" alt="Padicare logo" width="450" height="400">
+https://github.com/user-attachments/assets/bb0b2f6d-605a-426c-8318-862bd583e653
 
 ## Built with
 
@@ -77,7 +76,7 @@ Padi Care is an innovative AI-powered application designed to assist farmers in 
 In our project is divided into 2 types, this one for the core repository:
   - [Machine Learning](https://github.com/PadiCare/MachineLearning_Model)
   - [Cloud Computing](https://github.com/PadiCare/main-backend-api)
-  - [Mobile Development](??????)
+  - [Mobile Development](https://github.com/PadiCare/Mobile-App)
 
 For the other repository, it can be view here:
   - [Machine Learning Backend](https://github.com/PadiCare/ml-backend)
