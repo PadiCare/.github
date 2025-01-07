@@ -18,16 +18,12 @@ Padi Care is an innovative AI-powered application designed to assist farmers in 
 
 
 ## PadiCare App Download
-<p align="left">
-  <img src="https://github.com/PadiCare/.github/blob/main/Github%20padicare/PadiCare%20HD.jpeg" alt="Padicare logo" width="450" height="400">
-</p>
-
-Click on the image to download the PadiaCare APK.
+  - [Click this to download the application](https://drive.google.com/drive/folders/1VsrfkFLPT04yYVocVp3FX4vWb9djcZ5N?usp=drive_link)
 
 
 ## About Project
 <p align="left">
-  <img src="https://github.com/PadiCare/.github/blob/main/Github%20padicare/PadiCare%20HD.jpeg" alt="Padicare logo" width="450" height="400">
+  <img src="https://github.com/PadiCare/.github/tree/main/Vidio%20Padicare" alt="Padicare logo" width="450" height="400">
 
 ## Built with
 
