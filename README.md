@@ -10,24 +10,13 @@
 | Juan Christian | A242B4KY2106 | Mobile Devlopment | Universitas Kristen Krida Wancana | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-christian-653ab4278/)
 
 ## PadiCare
-<p align="center">
-  <img src="https://github.com/PadiCare/.github/blob/main/Github%20padicare/PadiCare%20HD.jpeg" alt="Padicare logo" width="450" height="400">
-</p>
+![padicare](https://github.com/user-attachments/assets/8f8930b7-a5a5-4662-9502-62114186c5cc)
 
 Padi Care is an innovative AI-powered application designed to assist farmers in diagnosing and managing rice crop diseases. By leveraging advanced machine learning models, utilizing google cloud, maximizing on mobile development, Padi Care provides accurate, fast, and reliable identification of common rice diseases using image-based analysis. The application empowers users to take proactive measures to maintain healthy crops and maximize yield potential.
 
 
-## PadiCare App Download
-<p align="left">
-  <img src="https://github.com/PadiCare/.github/blob/main/Github%20padicare/PadiCare%20HD.jpeg" alt="Padicare logo" width="450" height="400">
-</p>
-
-Click on the image to download the PadiaCare APK.
-
-
 ## About Project
-<p align="left">
-  <img src="https://github.com/PadiCare/.github/blob/main/Github%20padicare/PadiCare%20HD.jpeg" alt="Padicare logo" width="450" height="400">
+![Uploading WhatsApp Video 2025-01-07 at 06.26.56_f1c67d4a.gif…]()
 
 ## Built with
 
@@ -66,7 +55,7 @@ Click on the image to download the PadiaCare APK.
   - Camera
 
 - **Installation:**
-  - Download the .apk file from Drive [![padiCare]
+  - Download the .apk file from [Drive](https://drive.google.com/drive/folders/1VsrfkFLPT04yYVocVp3FX4vWb9djcZ5N)
   - Install the app and enjoy the scanning
  
 # PadiCare App Features
@@ -79,7 +68,7 @@ Click on the image to download the PadiaCare APK.
 In our project is divided into 2 types, this one for the core repository:
   - [Machine Learning](https://github.com/PadiCare/MachineLearning_Model)
   - [Cloud Computing](https://github.com/PadiCare/main-backend-api)
-  - [Mobile Development](??????)
+  - [Mobile Development](https://github.com/PadiCare/Mobile-App)
 
 For the other repository, it can be view here:
   - [Machine Learning Backend](https://github.com/PadiCare/ml-backend)
