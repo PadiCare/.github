@@ -16,7 +16,8 @@ Padi Care is an innovative AI-powered application designed to assist farmers in 
 
 
 ## About Project
-![Uploading WhatsApp Video 2025-01-07 at 06.26.56_f1c67d4a.gif…]()
+https://github.com/user-attachments/assets/5afb46fd-109b-4072-b018-c30e8b5086ca
+
 
 ## Built with
 
@@ -61,7 +62,7 @@ Padi Care is an innovative AI-powered application designed to assist farmers in 
 # PadiCare App Features
 
 1. **Scan Padi**
-   - The app features a built-in scanner using CameraX to identify and display names of scanned items within the......???
+   - The app features a built-in scanner using CameraX to identify and display names of scanned the disease of rice plants
   
 ## Part of Repository
 
